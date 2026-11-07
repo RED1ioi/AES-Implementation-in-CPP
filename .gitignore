@@ -1,0 +1,10 @@
+# Compiled binaries
+aes
+*.out
+
+# Object files
+*.o
+
+# IDE/editor files
+.vscode/
+
